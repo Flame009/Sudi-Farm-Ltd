@@ -1,0 +1,160 @@
+#top-title{
+    font-family: 'Italianno', cursive;
+    font-size: 4em;
+    
+    margin-top: 10px;
+    
+}
+
+.top-part{
+    display: flex;
+    margin-bottom: 10%;
+    
+
+}
+
+.top-text{
+    font-size: 1em;
+}
+
+.top-text h1{
+    font-size: 3em;
+
+}
+
+.top-helf{
+    width: 15rem;
+    padding-bottom: 60px;
+}
+
+.image-top img{
+    width: 50rem;
+    margin-left: 30px;
+    
+  
+}
+.button-link{
+    padding: 20px 40px;
+    background-color: rgb(34, 34, 34);
+    color: white;
+    font-weight: 700;
+    font-size: 15px;
+    border-radius: 5px;
+    border: 0;
+}
+
+.image-top{
+      position: relative;
+  text-align: center;
+  color: rgb(250, 245, 245);
+  font-weight: 700;
+  font-size: 2em;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+
+}
+body{
+    margin: 6% auto;
+    width: 80%;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.top-m-text h1{
+    font-size: 3em;
+    text-align: right;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.top-m-text p{
+    text-align: right;
+    font-size: 16px;
+    font-weight: 100;
+    line-height: 2;
+}
+.top-m-text {
+    text-align: right;
+     font-size: 16px;
+    font-weight: 100;
+    line-height: 2;
+    
+}
+
+
+.middle-top h1{
+    font-size: 3em;
+
+}
+
+.middle-part img{
+    width: 100%;
+    height: 100%;
+    
+  
+   
+}
+
+.middle-top{
+    width: 50%;
+}
+
+.bottom-img img{
+     width: 100%;
+    height: 100%;
+
+}
+
+.bottom-text{
+    width: 50%;
+    text-align: right;
+}
+.bottom-text h1{
+    font-size: 3em;
+
+}
+
+.bottom-left{
+    width: 30%;
+
+}
+.bottom-left h1{
+    font-size: 3em;
+
+}
+
+
+.bottom-right{
+    width: 50%;
+    margin-left: 120px;
+    text-align: center;
+    padding: 80px 30px;
+    background-color: rgb(124, 206, 152);
+    border-radius: 5px;
+    
+
+}
+
+.slider-bottom{
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.footer-top h1{
+    font-size: 3em;
+    color: peru;
+
+}
+
+.footer-top {
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    margin-top: 60px;
+}
